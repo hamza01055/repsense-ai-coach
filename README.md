@@ -1,6 +1,6 @@
 <div align="center">
 
-# RepSense  AI Fitness Coach
+# RepSense — AI Fitness Coach
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite)](https://vitejs.dev/)
